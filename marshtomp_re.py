@@ -1,7 +1,5 @@
 __author__ = 'whigy'
 #using regular expression
-#however, hihoCoder doesn't support = =
-
 import re
 
 while True:
